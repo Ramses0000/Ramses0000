@@ -4,7 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramsés-barboza-5a363a171/)
 
-![Ramsés GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramses0000&show_icons=true&theme=onedark)
+![Ramsés GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-ramashow_icons=true&theme=onedark)
 
 ### Tecnologias que eu uso no meu dia
 
